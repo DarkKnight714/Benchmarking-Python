@@ -29,3 +29,10 @@ TotalSeconds      : 3.6710742
 TotalSeconds      : 3.7826012
 
 AVG TIME(in seconds) : 3.745722866666667
+
+#Code to calculate elapsed time
+"Measure-Command {python readdataforcpy.py}"
+"Measure-Command {ipy readdataforipy.py}"
+"Measure-Command {pypy readdataforpypy.py}"
+
+
