@@ -1,3 +1,4 @@
+# For PYPY
 filename="5l.txt"
 fopen=open(filename)
 doc=[]
