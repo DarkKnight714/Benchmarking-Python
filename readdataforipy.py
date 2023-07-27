@@ -1,4 +1,4 @@
-#for Iron Python
+# For Iron Python
 filename = "5l.txt"
 with open(filename) as fopen:
     doc = [line.split() for line in fopen]
